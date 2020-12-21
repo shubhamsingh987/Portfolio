@@ -1,1 +1,1 @@
-<img src="https://imgur.com/9cePMbN"> 
+<div class="PostContent-imageWrapper-rounded"><img src="https://i.imgur.com/9cePMbN.jpg"></div>
